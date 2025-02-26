@@ -5,7 +5,7 @@
 
 - 📫 Como contactarme **jurgenkings20@gmail.com**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Sitio Web](https://jurgen-kings.vercel.app)
+- 👨‍💻 Todos mis proyectos están disponibles en mi [Sitio Web](https://jurgen-kings.vercel.app)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
