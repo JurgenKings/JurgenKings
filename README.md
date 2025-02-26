@@ -1,5 +1,5 @@
 <h1 align="center">Hola!, soy Jorge Reyes</h1>
-<h3 align="center">Me especializo en la creación de interfaces de usuario y aplicaciones web escalables, accesibles y de alta calidad.</h3>
+<h3 align="center">También conocido como Jurgen Kings, me especializo en la creación de interfaces de usuario y aplicaciones web escalables, accesibles y de alta calidad.</h3>
 
 - 💬 Pregúntame sobre **React, Next.js, TypeScript, etc**
 
