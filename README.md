@@ -7,12 +7,12 @@
 - 💡 Me especializo en la creación de interfaces de usuario y aplicaciones web escalables, accesibles y de alta calidad.
 - 🎓 Actualmente, estoy cursando mi último año de Ingeniería en Sistemas.
 - 🌱 En este momento, estoy explorando el desarrollo móvil utilizando Ionic.
-- 📫 Como contactarme **jurgenkings20@gmail.com**
-- 👨‍💻 Todos mis proyectos están disponibles en [https://jurgen-kings.vercel.app](https://jurgen-kings.vercel.app)
+- 📫 Como contactarme **jorgereyes@jurgenkings.com**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://jurgenkings.com](https://jurgenkings.com)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jorge reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge reyes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jurgenkings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge reyes" height="30" width="40" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
