@@ -1,4 +1,4 @@
-<img src="./Jurgen Kings. LinkedIn y Github Banner.png">
+<img src="./Jurgen Kings. LinkedIn y Github Banner Pro.png">
 <h1 align="left">Hola!, soy Jorge Reyes <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
@@ -6,7 +6,7 @@
 - 🤵🏻 Se me conoce como Jurgen Kings.
 - 💡 Me especializo en la creación de interfaces de usuario y aplicaciones web escalables, accesibles y de alta calidad.
 - 🎓 Actualmente, estoy cursando mi último año de Ingeniería en Sistemas.
-- 🌱 En este momento, estoy explorando el desarrollo móvil utilizando Ionic.
+- 🌱 En este momento, estoy explorando el desarrollo móvil utilizando React Native.
 - 📫 Como contactarme **jorgereyes@jurgenkings.com**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://jurgenkings.com](https://jurgenkings.com)
 
