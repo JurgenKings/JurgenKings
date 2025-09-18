@@ -28,7 +28,7 @@ Passionate about clean code, performance, and great user experiences.
 ---
 
 ## 📌 Featured Projects
-🔹 **[Spareo](#)** – *In development*  
+🔹 **Spareo** – *In development*  
 Inventory and sales system for motorcycle parts shops. Built with Next.js, Node.js, and MongoDB.  
 
 🔹 **[Nathy Gift](https://nathygift.vercel.app)**  
