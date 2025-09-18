@@ -42,11 +42,6 @@ Educational website with interactive maps and smooth animations.
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JurgenKings&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 - 🌐 Portfolio: [jurgenkings.com](https://jurgenkings.com)  
 - 💼 LinkedIn: [linkedin.com/in/jurgenkings](https://www.linkedin.com/in/jurgenkings)  
