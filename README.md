@@ -7,6 +7,9 @@ Building modern, scalable, and responsive web apps.
 Passionate about clean code, performance, and great user experiences.  
 
 ---
+![MERN](https://img.shields.io/badge/Stack-MERN-green?style=flat-square&logo=mongodb)
+![Remote](https://img.shields.io/badge/Work-Remote-blue?style=flat-square&logo=remote)
+![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-orange?style=flat-square&logo=github)
 
 ## 🚀 About Me
 - 🌍 Known online as **Jurgen Kings**.  
