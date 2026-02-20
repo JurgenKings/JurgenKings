@@ -14,25 +14,25 @@ Passionate about clean code, performance, and great user experiences.
 ## 🚀 About Me
 - 🌍 Known online as **Jurgen Kings**.  
 - 💻 Focused on **React, Next.js, Node.js, and MongoDB**.  
-- 🎓 Final year student in **Systems Engineering**.  
+- 🎓 **Bachelor's Degree in Systems Engineering**.  
 - 📱  Learning mobile development with **React Native**.  
 - 🛠️ Always improving my skills with projects and new technologies.  
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Shadcn UI, Material UI, Framer Motion  
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI, shadcn/ui, Bootstrap, SASS, Motion (Framer Motion)
 **Backend:** Node.js, Express.js, Next.js, PHP  
-**Database:** MongoDB, MySQL, PrismaORM  
+**Database:** MongoDB, MySQL, PostgreSQL
 **State Management:** Redux, Zustand, Context API  
+**Other:** Git, GitHub, API Rest, Docker, Figma  
 **Testing:** Cypress, Testing Library, Vitest  
-**Other Tools:** Git, GitHub, Docker, Figma  
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Spareo** – *In development*  
-Inventory and sales system for motorcycle parts shops. Built with Next.js, Node.js, and MongoDB.  
+🔹 **[SISPAV](https://github.com/JurgenKings/prev-sispav)**
+Web app for managing and controlling vehicle access passes, providing proactive alerts and real-time notifications.
 
 🔹 **[Nathy Gift](https://nathygift.vercel.app)**  
 E-commerce platform for creative gifts shop. Includes product catalog, filters, and admin panel.  
