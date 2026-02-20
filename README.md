@@ -23,7 +23,7 @@ Passionate about clean code, performance, and great user experiences.
 ## 🛠️ Tech Stack
 **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Material UI, shadcn/ui, Bootstrap, SASS, Motion (Framer Motion)
 **Backend:** Node.js, Express.js, Next.js, PHP  
-**Database:** MongoDB, MySQL, PostgreSQL
+**Database:** MongoDB, MySQL, PostgreSQL  
 **State Management:** Redux, Zustand, Context API  
 **Other:** Git, GitHub, API Rest, Docker, Figma  
 **Testing:** Cypress, Testing Library, Vitest  
@@ -31,7 +31,7 @@ Passionate about clean code, performance, and great user experiences.
 ---
 
 ## 📌 Featured Projects
-🔹 **[SISPAV](https://github.com/JurgenKings/prev-sispav)**
+🔹 **[SISPAV](https://github.com/JurgenKings/prev-sispav)**  
 Web app for managing and controlling vehicle access passes, providing proactive alerts and real-time notifications.
 
 🔹 **[Nathy Gift](https://nathygift.vercel.app)**  
